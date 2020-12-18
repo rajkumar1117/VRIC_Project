@@ -1,2 +1,2 @@
 # VRIC_Project
-Veterans Resource Information Center Student Application
+Veterans Resource Information Center Student & Staff Applications
